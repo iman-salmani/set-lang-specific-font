@@ -2,6 +2,8 @@
 """
 module for Set up a language-specific font
 License: MIT
+Author: imansalmani@chmail.ir
+Githup repository: https://github.com/iman-salmani/set-lang-specific-font
 """
 
 import os
